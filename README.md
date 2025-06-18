@@ -52,3 +52,11 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bilabong29" alt="Visitor Count"/>
 </p>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
