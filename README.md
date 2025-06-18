@@ -54,9 +54,7 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
 </p>
 
 ---
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bilabong29/Bilabong29/output/snake.svg" alt="Snake animation" />
+</p>
 ---
