@@ -33,7 +33,7 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilabong29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies Bilabong29"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilabong29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&exclude=A,S,SS,SSS,Stars,Forks,Followers,Issues,PullRequest,Reviews" alt="Trophies Bilabong29"/>
 </p>
 
 ## 🔝 Top Contributed Repo
