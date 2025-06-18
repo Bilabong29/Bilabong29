@@ -49,6 +49,4 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bilabong29&icon=0&color=0" alt="Visitor Count"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Bilabong29 &icon=0&color=0)](https://visitcount.itsvg.in)
