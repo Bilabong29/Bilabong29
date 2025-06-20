@@ -57,4 +57,3 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bilabong29/Bilabong29/output/snake.svg" alt="Snake animation" />
 </p>
----
