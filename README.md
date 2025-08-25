@@ -31,10 +31,6 @@ An Undergraduate Informatics Student with a passion for Data Science and Softwar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilabong29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Bilabong29"/>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?Bilabong29=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ## 🔝 Top Contributed Repo
 <p align="center">
