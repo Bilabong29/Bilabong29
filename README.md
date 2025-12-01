@@ -33,7 +33,12 @@ Hi, I'm Brifly!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bilabong29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats Bilabong29"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Bilabong29&theme=tokyonight&hide_border=false" alt="Streak Stats Bilabong29"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilabong29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Bilabong29"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilabong29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+</p>
+
+## 🔝 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilabong29&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 
