@@ -40,7 +40,7 @@ Hi, I'm Brifly!
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
-
+https://github-readme-stats.vercel.app/api?username=Bilabong29
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bilabong29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bilabong29&theme=dark&hide_border=false)<br/>
