@@ -33,6 +33,7 @@ Hi, I'm Brifly!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Tools & Others
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
@@ -40,11 +41,11 @@ Hi, I'm Brifly!
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
-https://github-readme-stats.vercel.app/api?username=Bilabong29
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bilabong29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bilabong29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilabong29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bilabong29&theme=tokyonight&hide_border=false" alt="Streak Stats Bilabong29"/><br/>
+</p>
 
 ---
 
